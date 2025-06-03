@@ -1,9 +1,10 @@
-import Header from "./components/Header";
+import Header from "./components/shared-components/Header";
 
 export default function HomePage() {
     return (
         <div>
             <Header />
+            
         </div>
     );
 }
