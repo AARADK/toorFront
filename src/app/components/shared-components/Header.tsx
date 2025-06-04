@@ -17,7 +17,7 @@ export default function Header() {
             width={120}
             height={40}
             priority
-            className="h-auto w-auto object-contain"
+          
           />
         </Link>
 
@@ -31,7 +31,7 @@ export default function Header() {
 
           {/* Action Buttons */}
           <div className="flex items-center space-x-6">
-            <Button className="bg-[#1D1E4C] hover:bg-[#16173d] text-white">
+            <Button className="bg-[#2D3363] hover:bg-[#16173d] text-white">
               Sell for free
             </Button>
             <Button className="bg-[#1D1E4C] hover:bg-[#16173d] text-white">
